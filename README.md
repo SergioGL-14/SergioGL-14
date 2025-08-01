@@ -40,11 +40,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioGL-14&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGL-14&layout=compact&theme=radical" height="150" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=SergioGL-14&theme=radical&hide_border=true" height="150"/>
 </p>
 
@@ -59,7 +54,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SergioGL-14&theme=radical&row=1&column=6" />
 </p>
-
 
 ---
 
