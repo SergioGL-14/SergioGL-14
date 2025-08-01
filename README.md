@@ -28,7 +28,7 @@
 
 - 🔹 **[Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)** – Aplicación de escritorio multiplataforma con RSS, tips, y más.
 - 🔹 **[DNSFixer](https://github.com/SergioGL-14/DNSFixer)** – GUI en PowerShell para diagnóstico y solución de problemas DNS.
-- 🔹 **[GhostHunter]([https://github.com/SergioGL-14/GhostHunter])** – Escaneo remoto de equipos para buscar perfiles "fantasma"
+- 🔹 **[GhostHunter](https://github.com/SergioGL-14/GhostHunter)** – Escaneo remoto de equipos para buscar perfiles "fantasma"
 
 ---
 
