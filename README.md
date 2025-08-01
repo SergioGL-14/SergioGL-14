@@ -61,7 +61,7 @@
 
 📍 Santiago de Compostela  
 📫 [Sergio.Catoira@hotmail.com](mailto:Sergio.Catoira@hotmail.com)  
-🔗 [Mi portfolio Notion](https://voltaic-primrose-b95.notion.site/Sergio-G-mez-Lajos-183822c72e9a8026bcb3c9575cd0b9f9)
+🔗 [LinkedIn – Sergio Gómez Lajos](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/)
 
 ---
 
