@@ -1,70 +1,67 @@
-<h1 align="center">Hola, soy Sergio 👋</h1>
+<h1 align="center">Sergio Gómez</h1>
 <p align="center">
-  Técnico Informático | Soporte y Administración de Sistemas | Automatización 💻⚙️
+  Técnico de Sistemas (Nivel 2) · Soporte avanzado · Automatización y Scripting
+</p>
+
+<p align="center">
+  Santiago de Compostela ·
+  <a href="mailto:Sergio.Catoira@hotmail.com">Sergio.Catoira@hotmail.com</a> ·
+  <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">LinkedIn</a>
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
-🎯 Apasionado por la tecnología, la eficiencia y el desarrollo de herramientas útiles.  
-🧰 Me especializo en automatización, soporte técnico, scripting y administración de sistemas.  
-🚀 Actualmente desarrollando soluciones en PowerShell, Python y SQLite.
+Soy Técnico de Sistemas (Nivel 2). Trabajo en soporte avanzado y administración, y me centro bastante en automatizar tareas para ahorrar tiempo y evitar errores repetitivos. Cuando aparece una incidencia, suelo tirar de logs, eventos y pruebas rápidas hasta acotar la causa, y si merece la pena lo dejo resuelto con algún script o procedimiento para que la próxima vez sea más rápido.
 
----
-
-## 🔧 Tecnologías y herramientas
-
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+La mayor parte de lo que hago está orientado a entornos Windows y PowerShell. También tengo alguna aplicación en Python y estoy aprendiendo más desarrollo para hacer herramientas un poco más completas cuando hace falta.
 
 ---
 
-## 🚀 Proyectos destacados
+## Áreas en las que suelo tocar
 
-- 🔹 **[Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)** – Aplicación de escritorio multiplataforma con RSS, tips, y más.
-- 🔹 **[DNSFixer](https://github.com/SergioGL-14/DNSFixer)** – GUI en PowerShell para diagnóstico y solución de problemas DNS.
-- 🔹 **[GhostHunter](https://github.com/SergioGL-14/GhostHunter)** – Escaneo remoto de equipos para buscar perfiles "fantasma"
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioGL-14&show_icons=true&theme=radical&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGL-14&layout=compact&theme=radical" height="150">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SergioGL-14&theme=radical&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SergioGL-14&theme=react-dark" />
-</p>
+- Soporte avanzado: incidencias de red, DNS, permisos, servicios, rendimiento y problemas recurrentes.
+- Administración en Windows: mantenimiento, revisión de eventos, validaciones, tareas de operación y algo de hardening básico.
+- Automatización con PowerShell: diagnósticos, remediación, inventario, reporting y pequeñas herramientas internas.
+- Documentación: pasos claros y reproducibles (lo típico que agradece el siguiente que lo tenga que mirar).
 
 ---
 
-## 🏆 Logros y trofeos
+## Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SergioGL-14&theme=radical&row=1&column=6" />
-</p>
-
----
-
-## ✉️ Contacto
-
-📍 Santiago de Compostela  
-📫 [Sergio.Catoira@hotmail.com](mailto:Sergio.Catoira@hotmail.com)  
-🔗 [LinkedIn – Sergio Gómez Lajos](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/)
+- PowerShell, Windows, Git, Visual Studio Code
+- Python (utilidades y herramientas), SQLite (persistencia local en proyectos)
+- Troubleshooting: Event Viewer, servicios, rendimiento, conectividad, DNS y puertos
 
 ---
 
-<p align="center">
-  <i>"GETTING WORK DONE"</i>
-</p>
+## Proyectos
+
+- Tech-Codex  
+  Aplicación de escritorio multiplataforma con utilidades técnicas y contenido (RSS/tips).  
+  https://github.com/SergioGL-14/Tech-Codex
+
+- DNSFixer  
+  GUI en PowerShell para diagnóstico y solución de problemas DNS.  
+  https://github.com/SergioGL-14/DNSFixer
+
+- GhostHunter  
+  Escaneo remoto para localizar perfiles “fantasma” y facilitar revisión/limpieza.  
+  https://github.com/SergioGL-14/GhostHunter
+
+---
+
+## En qué estoy ahora
+
+- Mejorando herramientas en PowerShell (más robustas, con validaciones y logs claros).
+- Haciendo pequeñas utilidades en Python cuando tiene sentido montar una app.
+- Aprendiendo desarrollo para estructurar mejor proyectos y mantenerlos con más facilidad.
+
+---
+
+## Contacto
+
+- Email: Sergio.Catoira@hotmail.com  
+- LinkedIn: https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/  
+- Ubicación: Santiago de Compostela
