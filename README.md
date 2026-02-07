@@ -46,10 +46,6 @@ La mayor parte de lo que hago está orientado a entornos Windows y PowerShell. T
   GUI en PowerShell para diagnóstico y solución de problemas DNS.  
   https://github.com/SergioGL-14/DNSFixer
 
-- GhostHunter  
-  Escaneo remoto para localizar perfiles “fantasma” y facilitar revisión/limpieza.  
-  https://github.com/SergioGL-14/GhostHunter
-
 ---
 
 ## En qué estoy ahora
