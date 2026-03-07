@@ -33,6 +33,3 @@ jobs:
 
           plugin_topics: yes
           plugin_topics_limit: 12
-
-          plugin_habits: yes
-          plugin_habits_from: 200
