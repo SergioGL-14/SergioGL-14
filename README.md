@@ -77,13 +77,10 @@ Prefiero herramientas útiles, diagnósticos claros y automatizaciones que de ve
 ## Contacto
 
 - Email: `Sergio.Catoira@hotmail.com`
-- LinkedIn: [sergio-gómez-lajos](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/) <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
+<a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-- Portfolio: [sergioportafolio.vercel.app](https://sergioportafolio.vercel.app)
-<p align="center">
-  <a href="https://sergioportafolio.vercel.app">
+  </a>[sergio-gómez-lajos](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/) 
+<a href="https://sergioportafolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-111827?style=for-the-badge" alt="Portfolio" />
-  </a>
-  
-</p>
+  </a>[sergioportafolio.vercel.app](https://sergioportafolio.vercel.app)
+
