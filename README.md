@@ -1,8 +1,7 @@
 <h1 align="center">Sergio Gómez Lajos</h1>
 
 <p align="center">
-  Técnico de Sistemas · Soporte avanzado · Automatización · Troubleshooting en entornos Windows
-    <img src="https://img.shields.io/badge/Soporte%20Nivel%202-374151?style=flat-square" alt="Soporte Nivel 2" />
+<img src="https://img.shields.io/badge/Soporte%20Nivel%202-374151?style=flat-square" alt="Soporte Nivel 2" />
   <img src="https://img.shields.io/badge/Troubleshooting-334155?style=flat-square" alt="Troubleshooting" />
   <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-1F2937?style=flat-square" alt="Automatización" />
   <img src="https://img.shields.io/badge/Herramientas%20T%C3%A9cnicas-475569?style=flat-square" alt="Herramientas Técnicas" />
