@@ -48,14 +48,6 @@ La mayor parte de lo que hago está orientado a entornos Windows y PowerShell. T
 
 ---
 
-## En qué estoy ahora
-
-- Mejorando herramientas en PowerShell (más robustas, con validaciones y logs claros).
-- Haciendo pequeñas utilidades en Python cuando tiene sentido montar una app.
-- Aprendiendo desarrollo para estructurar mejor proyectos y mantenerlos con más facilidad.
-
----
-
 ## Contacto
 
 - Email: Sergio.Catoira@hotmail.com  
