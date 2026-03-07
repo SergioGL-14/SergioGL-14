@@ -1,12 +1,19 @@
-<h1 align="center">Sergio Gómez</h1>
+<h1 align="center">Sergio Gómez Lajos</h1>
 <p align="center">
-  Técnico de Sistemas (Nivel 2) · Soporte avanzado · Automatización y Scripting
+  Soporte y administración de sistemas · Automatización con PowerShell · Herramientas para entornos Windows
 </p>
 
 <p align="center">
-  Santiago de Compostela ·
-  <a href="mailto:Sergio.Catoira@hotmail.com">Sergio.Catoira@hotmail.com</a> ·
-  <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">LinkedIn</a>
+  <a href="https://github.com/SergioGL-14">
+    <img src="https://img.shields.io/badge/GitHub-SergioGL--14-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20G%C3%B3mez%20Lajos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sergioportafolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Web-111111?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20de%20Compostela-555555?style=flat-square" />
 </p>
 
 ---
@@ -23,33 +30,59 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 
 ---
 
-## Qué hago
+## En qué suelo trabajar
 
-- Resolución de incidencias técnicas en entornos Windows
+- Soporte técnico avanzado y resolución de incidencias
 - Diagnóstico de DNS, red, servicios, eventos y conectividad
-- Automatización con PowerShell
-- Desarrollo de herramientas internas y utilidades técnicas
-- Documentación y procedimientos claros para soporte
+- Automatización y scripting con PowerShell
+- Desarrollo de herramientas para soporte y administración
+- Documentación técnica clara y reutilizable
 
-## Stack principal
+---
 
-`PowerShell` `Windows` `Python` `PyQt6` `WPF` `WinForms` `SQLite` `Git` `Next.js`
+## Tecnologías y herramientas
 
-## Proyectos
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-- [DNSFixer](https://github.com/SergioGL-14/DNSFixer)  
-  Utilidad gráfica en PowerShell para diagnóstico y corrección de problemas DNS.
+---
 
-- [DiagnosTIC](https://github.com/SergioGL-14/DiagnosTIC)  
-  Aplicación WPF en PowerShell para ejecutar y presentar diagnósticos locales del sistema.
+## Proyectos destacados
 
-- [Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)  
-  Aplicación desktop en Python orientada a centralizar recursos y utilidades técnicas.
+### [DNSFixer](https://github.com/SergioGL-14/DNSFixer)
+Herramienta en PowerShell con interfaz gráfica para diagnosticar y corregir problemas DNS de forma local o remota. Está orientada a entornos Windows y reúne análisis, limpieza de caché, registro DNS e informes de configuración de red en una sola utilidad.
+
+### [DiagnosTIC](https://github.com/SergioGL-14/DiagnosTIC)
+Aplicación WPF en PowerShell pensada para orquestar diagnósticos locales del sistema mediante módulos independientes. Presenta hallazgos, causas y recomendaciones, y busca dar una base más ordenada para el análisis técnico.
+
+### [Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)
+Aplicación de escritorio multiplataforma desarrollada en Python con PyQt6. Centraliza recursos técnicos como RSS, comandos, scripts, documentación, diarios y utilidades, funcionando como un pequeño centro de trabajo para técnicos.
+
+### [Portfolio](https://github.com/SergioGL-14/Sergio_Portofolio)
+Portfolio profesional desarrollado con Next.js y Tailwind CSS, donde reúno experiencia, habilidades y proyectos relacionados con soporte, automatización y administración de sistemas.
+
+---
+
+## Forma de trabajar
+
+Me interesa crear soluciones que sirvan en el trabajo real del día a día. Prefiero herramientas útiles, diagnósticos claros y procedimientos que se puedan reutilizar, antes que montar algo complejo solo por hacerlo más vistoso.
+
+Cuando una solución no solo resuelve una incidencia puntual, sino que además deja el camino preparado para futuras intervenciones, para mí ya tiene valor de verdad.
 
 ---
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/)
-- [Portfolio](https://sergioportafolio.vercel.app/)
-- `Sergio.Catoira@hotmail.com`
+- Email: `Sergio.Catoira@hotmail.com`
+- LinkedIn: [sergio-gómez-lajos](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/)
+- Portfolio: [sergioportafolio.vercel.app](https://sergioportafolio.vercel.app)
