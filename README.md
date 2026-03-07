@@ -1,7 +1,11 @@
 <h1 align="center">Sergio Gómez Lajos</h1>
 
 <p align="center">
-  Soporte y administración de sistemas · Automatización con PowerShell · Herramientas para entornos Windows
+  Técnico de Sistemas · Soporte avanzado · Automatización · Troubleshooting en entornos Windows
+</p>
+
+<p align="center">
+  Construyendo herramientas útiles para soporte, diagnóstico y mejora operativa.
 </p>
 
 <p align="center">
@@ -11,18 +15,15 @@
   <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SergioGL-14">
-    <img src="https://img.shields.io/badge/GitHub-SergioGL--14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-Automatizaci%C3%B3n-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Python-Herramientas-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Windows-Administraci%C3%B3n-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/DNS-Troubleshooting-2563EB?style=flat-square" alt="DNS" />
-  <img src="https://img.shields.io/badge/Soporte-Nivel%202-4B5563?style=flat-square" alt="Soporte" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20de%20Compostela-555555?style=flat-square" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Soporte%20Nivel%202-374151?style=flat-square" alt="Soporte Nivel 2" />
+  <img src="https://img.shields.io/badge/Troubleshooting-334155?style=flat-square" alt="Troubleshooting" />
+  <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-1F2937?style=flat-square" alt="Automatización" />
+  <img src="https://img.shields.io/badge/Herramientas%20T%C3%A9cnicas-475569?style=flat-square" alt="Herramientas Técnicas" />
+  <img src="https://img.shields.io/badge/Entornos%20Windows-4B5563?style=flat-square" alt="Entornos Windows" />
+  <img src="https://img.shields.io/badge/Santiago%20de%20Compostela-555555?style=flat-square" alt="Ubicación" />
 </p>
 
 ## Sobre mí
