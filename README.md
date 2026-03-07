@@ -79,6 +79,8 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
+<br>
+
 ## Filosofía
 
 Prefiero herramientas útiles, diagnósticos claros y automatizaciones que de verdad ayuden en la operativa diaria. Si una solución permite ahorrar tiempo, reducir errores y dejar una base reutilizable para futuras intervenciones, entonces ya tiene valor real.
