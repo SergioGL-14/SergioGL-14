@@ -30,7 +30,7 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 
 ---
 
-## En qué suelo trabajar
+## Trabajo
 
 - Soporte técnico avanzado y resolución de incidencias
 - Diagnóstico de DNS, red, servicios, eventos y conectividad
@@ -57,23 +57,14 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 
 ---
 
-## Proyectos destacados
-
-### [DNSFixer](https://github.com/SergioGL-14/DNSFixer)
-Herramienta en PowerShell con interfaz gráfica para diagnosticar y corregir problemas DNS de forma local o remota. Está orientada a entornos Windows y reúne análisis, limpieza de caché, registro DNS e informes de configuración de red en una sola utilidad.
-
-### [DiagnosTIC](https://github.com/SergioGL-14/DiagnosTIC)
-Aplicación WPF en PowerShell pensada para orquestar diagnósticos locales del sistema mediante módulos independientes. Presenta hallazgos, causas y recomendaciones, y busca dar una base más ordenada para el análisis técnico.
+## Proyectos
 
 ### [Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)
 Aplicación de escritorio multiplataforma desarrollada en Python con PyQt6. Centraliza recursos técnicos como RSS, comandos, scripts, documentación, diarios y utilidades, funcionando como un pequeño centro de trabajo para técnicos.
 
-### [Portfolio](https://github.com/SergioGL-14/Sergio_Portofolio)
-Portfolio profesional desarrollado con Next.js y Tailwind CSS, donde reúno experiencia, habilidades y proyectos relacionados con soporte, automatización y administración de sistemas.
-
 ---
 
-## Forma de trabajar
+## Filosofia
 
 Me interesa crear soluciones que sirvan en el trabajo real del día a día. Prefiero herramientas útiles, diagnósticos claros y procedimientos que se puedan reutilizar, antes que montar algo complejo solo por hacerlo más vistoso.
 
