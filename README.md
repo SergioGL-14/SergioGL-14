@@ -82,6 +82,8 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
   <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+<p align="left">
   <a href="https://sergioportafolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-111827?style=for-the-badge" alt="Portfolio" />
   </a>
