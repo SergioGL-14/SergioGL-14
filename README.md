@@ -19,6 +19,24 @@ Técnico de sistemas centrado en soporte avanzado, automatización y resolución
   <img src="https://img.shields.io/badge/Soporte-Nivel%202-4B5563?style=flat-square" alt="Soporte" />
 </p>
 
+<h1 align="center">Sergio Gómez Lajos</h1>
+<p align="center">
+  Soporte y administración de sistemas · Automatización con PowerShell · Herramientas para entornos Windows
+</p>
+
+<p align="center">
+  <a href="https://github.com/SergioGL-14">
+    <img src="https://img.shields.io/badge/GitHub-SergioGL--14-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20G%C3%B3mez%20Lajos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sergioportafolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Web-111111?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20de%20Compostela-555555?style=flat-square" />
+</p>
+
 ---
 
 ## Sobre mí
