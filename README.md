@@ -45,8 +45,6 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 
 ## Tecnologías y herramientas
 
-Trabajo principalmente en entornos Windows, soporte técnico avanzado y automatización. Me interesa que las herramientas sirvan para el trabajo real: diagnosticar mejor, resolver antes y dejar procedimientos reutilizables para futuras incidencias.
-
 ### Sistemas, soporte y administración
 
 <p align="left">
@@ -82,14 +80,6 @@ Trabajo principalmente en entornos Windows, soporte técnico avanzado y automati
   <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" />
 </p>
 
-### Perfil y actividad
-
-<p align="left">
-  <img src="https://img.shields.io/github/last-commit/SergioGL-14/SergioGL-14?path=README.md&style=for-the-badge&label=Perfil%20actualizado&logo=github" />
-</p>
-
-Además de las tecnologías concretas, gran parte de mi trabajo gira alrededor del análisis de incidencias, la validación de resultados, la automatización de tareas repetitivas y el desarrollo de utilidades orientadas a soporte y administración en entornos Windows.
-
 ---
 
 ## Métricas
@@ -107,12 +97,6 @@ Además de las tecnologías concretas, gran parte de mi trabajo gira alrededor d
 
 ---
 
-## En qué estoy centrado ahora
-
-Estoy mejorando herramientas orientadas a soporte, diagnóstico y automatización, con especial atención a que sean claras, útiles y mantenibles. Me interesa convertir necesidades reales del entorno técnico en soluciones que puedan reutilizarse y aportar valor más allá de una incidencia puntual.
-
----
-
 ## Filosofía
 
 Prefiero herramientas útiles, diagnósticos claros y automatizaciones que de verdad ayuden en la operativa diaria. Si una solución permite ahorrar tiempo, reducir errores y dejar una base reutilizable para futuras intervenciones, entonces ya tiene valor real.
@@ -121,14 +105,6 @@ Prefiero herramientas útiles, diagnósticos claros y automatizaciones que de ve
 
 ## Contacto
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20G%C3%B3mez%20Lajos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sergioportafolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Web-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/SergioGL-14">
-    <img src="https://img.shields.io/badge/GitHub-SergioGL--14-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- Email: `Sergio.Catoira@hotmail.com`
+- LinkedIn: [sergio-gómez-lajos](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/)
+- Portfolio: [sergioportafolio.vercel.app](https://sergioportafolio.vercel.app)
