@@ -11,13 +11,15 @@
 
 ## Sobre mí
 
-Soy Técnico de Sistemas (Nivel 2). Trabajo en soporte avanzado y administración, con bastante enfoque en la automatización de tareas para ahorrar tiempo y reducir errores repetitivos. Cuando aparece una incidencia, suelo apoyarme en logs, eventos y pruebas rápidas para acotar la causa lo antes posible. Y, si compensa, intento dejarla resuelta también a través de algún script o procedimiento que permita afrontarla más rápido la próxima vez.
+## Sobre mí
 
-La mayor parte de mi trabajo está orientada a entornos Windows y PowerShell. También he desarrollado algunas aplicaciones en Python y sigo aprendiendo desarrollo para crear herramientas algo más completas cuando la situación lo requiere.
+Trabajo en soporte y administración de sistemas, con foco en troubleshooting, automatización y mejora de tareas en entornos Windows.
 
-Desarrollo proyectos y utilidades propias enfocadas al soporte técnico, la administración de sistemas y la automatización de tareas, especialmente en entornos Windows. Mi objetivo es crear soluciones prácticas que ayuden a agilizar procesos, reducir errores repetitivos y facilitar la resolución de incidencias en el día a día.
+Me interesa convertir necesidades reales del día a día en herramientas útiles: scripts, utilidades y pequeños proyectos que ayuden a diagnosticar mejor, reducir errores repetitivos y agilizar la resolución de incidencias.
 
-Los proyectos que he ido publicando siguen una línea bastante clara: detectar necesidades reales dentro del entorno técnico y convertirlas en herramientas útiles que aporten valor. Ya sea mejorando tiempos de respuesta, simplificando tareas de diagnóstico o haciendo más eficiente la operativa habitual, busco que cada solución tenga una utilidad real. En conjunto, reflejan una forma de trabajar muy centrada en la mejora continua, en la eficacia práctica de las herramientas y en desarrollar soluciones que no solo resuelvan un problema puntual, sino que también puedan reutilizarse como apoyo en futuras intervenciones.
+La mayor parte de lo que desarrollo gira alrededor de PowerShell, Windows y utilidades técnicas orientadas a soporte. También utilizo Python cuando necesito construir herramientas algo más completas o con una interfaz más flexible.
+
+En este perfil voy publicando proyectos y pruebas que siguen esa misma línea: soluciones prácticas, reutilizables y pensadas para aportar valor en entornos técnicos reales.
 
 ## Trabajo
 
@@ -33,7 +35,6 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soporte%20Nivel%202-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Administraci%C3%B3n%20de%20Sistemas-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Troubleshooting-374151?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Event%20Viewer-52525B?style=for-the-badge" />
@@ -45,7 +46,6 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 <p align="left">
   <img src="https://img.shields.io/badge/DNS-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Networking-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Conectividad-155E75?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Puertos%20y%20Servicios-0E7490?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Logs%20y%20Validaciones-334155?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Diagn%C3%B3stico%20T%C3%A9cnico-475569?style=for-the-badge" />
