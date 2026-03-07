@@ -11,8 +11,6 @@
 
 ## Sobre mí
 
-## Sobre mí
-
 Trabajo en soporte y administración de sistemas, con foco en troubleshooting, automatización y mejora de tareas en entornos Windows.
 
 Me interesa convertir necesidades reales del día a día en herramientas útiles: scripts, utilidades y pequeños proyectos que ayuden a diagnosticar mejor, reducir errores repetitivos y agilizar la resolución de incidencias.
