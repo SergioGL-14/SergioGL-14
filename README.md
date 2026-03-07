@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20de%20Compostela-555555?style=flat-square" alt="Ubicación" />
 </p>
 
----
-
 ## Sobre mí
 
 Soy Técnico de Sistemas (Nivel 2). Trabajo en soporte avanzado y administración, con bastante enfoque en la automatización de tareas para ahorrar tiempo y reducir errores repetitivos. Cuando aparece una incidencia, suelo apoyarme en logs, eventos y pruebas rápidas para acotar la causa lo antes posible. Y, si compensa, intento dejarla resuelta también a través de algún script o procedimiento que permita afrontarla más rápido la próxima vez.
@@ -36,8 +34,6 @@ La mayor parte de mi trabajo está orientada a entornos Windows y PowerShell. Ta
 Desarrollo proyectos y utilidades propias enfocadas al soporte técnico, la administración de sistemas y la automatización de tareas, especialmente en entornos Windows. Mi objetivo es crear soluciones prácticas que ayuden a agilizar procesos, reducir errores repetitivos y facilitar la resolución de incidencias en el día a día.
 
 Los proyectos que he ido publicando siguen una línea bastante clara: detectar necesidades reales dentro del entorno técnico y convertirlas en herramientas útiles que aporten valor. Ya sea mejorando tiempos de respuesta, simplificando tareas de diagnóstico o haciendo más eficiente la operativa habitual, busco que cada solución tenga una utilidad real. En conjunto, reflejan una forma de trabajar muy centrada en la mejora continua, en la eficacia práctica de las herramientas y en desarrollar soluciones que no solo resuelvan un problema puntual, sino que también puedan reutilizarse como apoyo en futuras intervenciones.
-
----
 
 ## Trabajo
 
@@ -61,22 +57,6 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-
----
-
-## GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SergioGL-14&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGL-14&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## Proyectos
-
-### [Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)
-Aplicación de escritorio multiplataforma desarrollada en Python con PyQt6. Centraliza recursos técnicos como RSS, comandos, scripts, documentación, diarios y utilidades, funcionando como un pequeño centro de trabajo para técnicos.
 
 ---
 
