@@ -60,10 +60,26 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 
 ---
 
+## GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SergioGL-14&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGL-14&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
 ## Proyectos
 
 ### [Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)
 Aplicación de escritorio multiplataforma desarrollada en Python con PyQt6. Centraliza recursos técnicos como RSS, comandos, scripts, documentación, diarios y utilidades, funcionando como un pequeño centro de trabajo para técnicos.
+
+---
+
+### Portfolio
+Recopilación de proyectos y enfoque profesional.
+
+[Ver portfolio](https://sergioportafolio.vercel.app)
 
 ---
 
