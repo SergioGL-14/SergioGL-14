@@ -1,40 +1,28 @@
-# Sergio Gómez Lajos
+<h1 align="center">Sergio Gómez Lajos</h1>
 
-Técnico de sistemas centrado en soporte avanzado, automatización y resolución de incidencias en entornos Windows.
+<p align="center">
+  Soporte y administración de sistemas · Automatización con PowerShell · Herramientas para entornos Windows
+</p>
 
-<p>
+<p align="center">
   <a href="https://sergioportafolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-111827?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/SergioGL-14">
+    <img src="https://img.shields.io/badge/GitHub-SergioGL--14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PowerShell-Automatizaci%C3%B3n-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Python-Herramientas-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Windows-Administraci%C3%B3n-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/DNS-Troubleshooting-2563EB?style=flat-square" alt="DNS" />
   <img src="https://img.shields.io/badge/Soporte-Nivel%202-4B5563?style=flat-square" alt="Soporte" />
-</p>
-
-<h1 align="center">Sergio Gómez Lajos</h1>
-<p align="center">
-  Soporte y administración de sistemas · Automatización con PowerShell · Herramientas para entornos Windows
-</p>
-
-<p align="center">
-  <a href="https://github.com/SergioGL-14">
-    <img src="https://img.shields.io/badge/GitHub-SergioGL--14-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20G%C3%B3mez%20Lajos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sergioportafolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Web-111111?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20de%20Compostela-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%20de%20Compostela-555555?style=flat-square" alt="Ubicación" />
 </p>
 
 ---
@@ -71,8 +59,6 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
