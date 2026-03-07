@@ -70,17 +70,20 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-## Filosofía
-
-Prefiero herramientas útiles, diagnósticos claros y automatizaciones que de verdad ayuden en la operativa diaria. Si una solución permite ahorrar tiempo, reducir errores y dejar una base reutilizable para futuras intervenciones, entonces ya tiene valor real.
-
 ## Contacto
 
-- Email: `Sergio.Catoira@hotmail.com`
-- <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
+<p align="left">
+  <a href="mailto:Sergio.Catoira@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Sergio.Catoira%40hotmail.com-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>[sergio-gómez-lajos](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/) 
-- <a href="https://sergioportafolio.vercel.app">
+  </a>
+  <a href="https://sergioportafolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-111827?style=for-the-badge" alt="Portfolio" />
-  </a>[sergioportafolio.vercel.app](https://sergioportafolio.vercel.app)
+  </a>
+</p>
 
