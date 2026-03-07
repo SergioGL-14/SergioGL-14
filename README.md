@@ -80,28 +80,20 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
   <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" />
 </p>
 
----
-
 ## Métricas
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
----
-
 ## Actividad reciente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
-
 ## Filosofía
 
 Prefiero herramientas útiles, diagnósticos claros y automatizaciones que de verdad ayuden en la operativa diaria. Si una solución permite ahorrar tiempo, reducir errores y dejar una base reutilizable para futuras intervenciones, entonces ya tiene valor real.
-
----
 
 ## Contacto
 
