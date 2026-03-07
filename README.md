@@ -43,8 +43,6 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
 - Desarrollo de herramientas para soporte y administración
 - Documentación técnica clara y reutilizable
 
----
-
 ## Tecnologías y herramientas
 
 <p>
@@ -58,14 +56,11 @@ Los proyectos que he ido publicando siguen una línea bastante clara: detectar n
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
----
 
 ### Portfolio
 Recopilación de proyectos y enfoque profesional.
 
 [Ver portfolio](https://sergioportafolio.vercel.app)
-
----
 
 ## Filosofia
 
