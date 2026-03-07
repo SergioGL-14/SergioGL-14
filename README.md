@@ -13,43 +13,43 @@
 
 ## Sobre mí
 
-Soy Técnico de Sistemas (Nivel 2). Trabajo en soporte avanzado y administración, y me centro bastante en automatizar tareas para ahorrar tiempo y evitar errores repetitivos. Cuando aparece una incidencia, suelo tirar de logs, eventos y pruebas rápidas hasta acotar la causa, y si merece la pena lo dejo resuelto con algún script o procedimiento para que la próxima vez sea más rápido.
+Soy Técnico de Sistemas (Nivel 2). Trabajo en soporte avanzado y administración, con bastante enfoque en la automatización de tareas para ahorrar tiempo y reducir errores repetitivos. Cuando aparece una incidencia, suelo apoyarme en logs, eventos y pruebas rápidas para acotar la causa lo antes posible. Y, si compensa, intento dejarla resuelta también a través de algún script o procedimiento que permita afrontarla más rápido la próxima vez.
 
-La mayor parte de lo que hago está orientado a entornos Windows y PowerShell. También tengo alguna aplicación en Python y estoy aprendiendo más desarrollo para hacer herramientas un poco más completas cuando hace falta.
+La mayor parte de mi trabajo está orientada a entornos Windows y PowerShell. También he desarrollado algunas aplicaciones en Python y sigo aprendiendo desarrollo para crear herramientas algo más completas cuando la situación lo requiere.
 
----
+Desarrollo proyectos y utilidades propias enfocadas al soporte técnico, la administración de sistemas y la automatización de tareas, especialmente en entornos Windows. Mi objetivo es crear soluciones prácticas que ayuden a agilizar procesos, reducir errores repetitivos y facilitar la resolución de incidencias en el día a día.
 
-## Áreas en las que suelo tocar
-
-- Soporte avanzado: incidencias de red, DNS, permisos, servicios, rendimiento y problemas recurrentes.
-- Administración en Windows: mantenimiento, revisión de eventos, validaciones, tareas de operación y algo de hardening básico.
-- Automatización con PowerShell: diagnósticos, remediación, inventario, reporting y pequeñas herramientas internas.
-- Documentación: pasos claros y reproducibles (lo típico que agradece el siguiente que lo tenga que mirar).
+Los proyectos que he ido publicando siguen una línea bastante clara: detectar necesidades reales dentro del entorno técnico y convertirlas en herramientas útiles que aporten valor. Ya sea mejorando tiempos de respuesta, simplificando tareas de diagnóstico o haciendo más eficiente la operativa habitual, busco que cada solución tenga una utilidad real. En conjunto, reflejan una forma de trabajar muy centrada en la mejora continua, en la eficacia práctica de las herramientas y en desarrollar soluciones que no solo resuelvan un problema puntual, sino que también puedan reutilizarse como apoyo en futuras intervenciones.
 
 ---
 
-## Tecnologías y herramientas
+## Qué hago
 
-- PowerShell, Windows, Git, Visual Studio Code
-- Python (utilidades y herramientas), SQLite (persistencia local en proyectos)
-- Troubleshooting: Event Viewer, servicios, rendimiento, conectividad, DNS y puertos
+- Resolución de incidencias técnicas en entornos Windows
+- Diagnóstico de DNS, red, servicios, eventos y conectividad
+- Automatización con PowerShell
+- Desarrollo de herramientas internas y utilidades técnicas
+- Documentación y procedimientos claros para soporte
 
----
+## Stack principal
+
+`PowerShell` `Windows` `Python` `PyQt6` `WPF` `WinForms` `SQLite` `Git` `Next.js`
 
 ## Proyectos
 
-- Tech-Codex  
-  Aplicación de escritorio multiplataforma con utilidades técnicas y contenido (RSS/tips).  
-  https://github.com/SergioGL-14/Tech-Codex
+- [DNSFixer](https://github.com/SergioGL-14/DNSFixer)  
+  Utilidad gráfica en PowerShell para diagnóstico y corrección de problemas DNS.
 
-- DNSFixer  
-  GUI en PowerShell para diagnóstico y solución de problemas DNS.  
-  https://github.com/SergioGL-14/DNSFixer
+- [DiagnosTIC](https://github.com/SergioGL-14/DiagnosTIC)  
+  Aplicación WPF en PowerShell para ejecutar y presentar diagnósticos locales del sistema.
+
+- [Tech-Codex](https://github.com/SergioGL-14/Tech-Codex)  
+  Aplicación desktop en Python orientada a centralizar recursos y utilidades técnicas.
 
 ---
 
 ## Contacto
 
-- Email: Sergio.Catoira@hotmail.com  
-- LinkedIn: https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/  
-- Ubicación: Santiago de Compostela
+- [LinkedIn](https://www.linkedin.com/in/sergio-g%C3%B3mez-lajos/)
+- [Portfolio](https://sergioportafolio.vercel.app/)
+- `Sergio.Catoira@hotmail.com`
