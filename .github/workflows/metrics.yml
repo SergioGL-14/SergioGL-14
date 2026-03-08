@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergioGL-14
-          filename: github-metrics-main.svg
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
