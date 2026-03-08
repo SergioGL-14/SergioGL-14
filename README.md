@@ -65,7 +65,7 @@ En este perfil voy publicando proyectos y pruebas que siguen esa misma línea: s
 ## Métricas
 
 <picture>
-  <img src="/github-metrics-main.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </picture>
 
 ## Contacto
