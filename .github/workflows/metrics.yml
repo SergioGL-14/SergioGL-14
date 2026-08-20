@@ -15,7 +15,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@v3
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergioGL-14
