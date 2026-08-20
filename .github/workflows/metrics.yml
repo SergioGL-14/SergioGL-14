@@ -25,6 +25,7 @@ jobs:
           config_timezone: Europe/Madrid
           config_padding: 10%, 13%
           config_display: large
+          config_integrity: no
 
           plugins_errors_fatal: no
 
